@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 #weibo_username:     zhangyw
-zhihu_username:     长江空自流
+zhihu_username:     chang-jiang-kong-zi-liu
 github_username:    zyw19871007
 #twitter_username:   zhangyw
 #facebook_username:  zhangyw
