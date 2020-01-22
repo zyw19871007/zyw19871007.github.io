@@ -59,7 +59,8 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: zyw19871007
+#disqus_username: zyw19871007
+disqus_username: blog-705192166-xyz
 
 # Netease settings
 netease_comment: false
