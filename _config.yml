@@ -1,10 +1,10 @@
 # Site settings
-title: zhangyw Blog
-SEOTitle: 张耀文的博客 | zhangyw Blog
+title: Zhangyw Blog
+SEOTitle: 张耀文的博客 | Zhangyw Blog
 header-img: img/home-bg.jpg
 email: zyw19871007@163.com
 description: "客官，来了"
-keyword: "zhangyw Blog, 博客, 个人网站, 互联网, Web"
+keyword: "Zhangyw Blog, 博客, 个人网站, 互联网, Web"
 url: "http://blog.705192166.xyz/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-#weibo_username:     zhangyw
+#weibo_username:     Zhangyw
 zhihu_username:     chang-jiang-kong-zi-liu
 github_username:    zyw19871007
-#twitter_username:   zhangyw
-#facebook_username:  zhangyw
+#twitter_username:   Zhangyw
+#facebook_username:  Zhangyw
 #linkedin_username:  firstname-lastname-idxxxx
 
 
