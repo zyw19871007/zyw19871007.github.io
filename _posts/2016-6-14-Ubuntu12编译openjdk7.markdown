@@ -1,8 +1,8 @@
 ---
 layout:  post
 title:   Ubuntu12编译openjdk7
-date:   2016-06-14 13:38:45author:  "唐传林"
-header-img: "img/post-bg-2015.jpg"
+date:   2016-06-14 13:38:45
+author:  "张耀文"
 catalog:   false
 tags:
 

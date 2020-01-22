@@ -1,8 +1,8 @@
 ---
 layout:  post
 title:   Fragment模拟Tab以及简单优化
-date:   2015-06-25 11:23:02author:  "唐传林"
-header-img: "img/post-bg-2015.jpg"
+date:   2015-06-25 11:23:02
+author:  "张耀文"
 catalog:   false
 tags:
 

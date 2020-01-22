@@ -1,8 +1,8 @@
 ---
 layout:  post
 title:   Wordpress更换ip不能正常访问解决方法
-date:   2016-10-10 10:55:16author:  "唐传林"
-header-img: "img/post-bg-2015.jpg"
+date:   2016-10-10 10:55:16
+author:  "张耀文"
 catalog:   false
 tags:
 

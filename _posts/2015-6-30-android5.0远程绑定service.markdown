@@ -1,8 +1,8 @@
 ---
 layout:  post
 title:   android5.0远程绑定service
-date:   2015-06-30 13:19:11author:  "唐传林"
-header-img: "img/post-bg-2015.jpg"
+date:   2015-06-30 13:19:11
+author:  "张耀文"
 catalog:   false
 tags:
 

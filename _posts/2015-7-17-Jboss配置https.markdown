@@ -1,8 +1,8 @@
 ---
 layout:  post
 title:   Jboss配置https
-date:   2015-07-17 17:19:38author:  "唐传林"
-header-img: "img/post-bg-2015.jpg"
+date:   2015-07-17 17:19:38
+author:  "张耀文"
 catalog:   false
 tags:
 

@@ -1,10 +1,12 @@
 ---
 layout:  post
 title:   qt4.8.6-vtk5.10-vs2010整合
-date:   2014-10-23 11:25:50author:  "唐传林"
-header-img: "img/post-bg-2015.jpg"
+date:   2014-10-23 11:25:50
+author:  "张耀文"
 catalog:   false
 tags:
+    - qt
+    - vtk
 
 ---
 qt-vtk-vs2010整合

@@ -1,8 +1,8 @@
 ---
 layout:  post
 title:   openssl在java端的加解密和签名验证
-date:   2015-07-16 14:29:49author:  "唐传林"
-header-img: "img/post-bg-2015.jpg"
+date:   2015-07-16 14:29:49
+author:  "张耀文"
 catalog:   false
 tags:
 

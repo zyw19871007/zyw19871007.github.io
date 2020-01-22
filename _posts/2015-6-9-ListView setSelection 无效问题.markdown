@@ -1,8 +1,8 @@
 ---
 layout:  post
 title:   ListView setSelection 无效问题
-date:   2015-06-09 15:54:57author:  "唐传林"
-header-img: "img/post-bg-2015.jpg"
+date:   2015-06-09 15:54:57
+author:  "张耀文"
 catalog:   false
 tags:
 

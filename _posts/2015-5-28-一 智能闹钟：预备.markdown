@@ -1,8 +1,8 @@
 ---
 layout:  post
 title:   一 智能闹钟：预备
-date:   2015-05-28 16:06:57author:  "唐传林"
-header-img: "img/post-bg-2015.jpg"
+date:   2015-05-28 16:06:57
+author:  "张耀文"
 catalog:   false
 tags:
 

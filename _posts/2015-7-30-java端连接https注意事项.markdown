@@ -1,8 +1,8 @@
 ---
 layout:  post
 title:   java端连接https注意事项
-date:   2015-07-30 15:52:55author:  "唐传林"
-header-img: "img/post-bg-2015.jpg"
+date:   2015-07-30 15:52:55
+author:  "张耀文"
 catalog:   false
 tags:
 

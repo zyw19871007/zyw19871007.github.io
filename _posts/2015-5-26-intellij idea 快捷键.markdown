@@ -1,8 +1,8 @@
 ---
 layout:  post
 title:   intellij idea 快捷键
-date:   2015-05-26 10:30:00author:  "唐传林"
-header-img: "img/post-bg-2015.jpg"
+date:   2015-05-26 10:30:00
+author:  "张耀文"
 catalog:   false
 tags:
 

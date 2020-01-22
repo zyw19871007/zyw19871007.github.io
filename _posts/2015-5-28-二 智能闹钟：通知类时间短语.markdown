@@ -1,8 +1,8 @@
 ---
 layout:  post
 title:   二 智能闹钟：通知类时间短语
-date:   2015-05-28 16:43:32author:  "唐传林"
-header-img: "img/post-bg-2015.jpg"
+date:   2015-05-28 16:43:32
+author:  "张耀文"
 catalog:   false
 tags:
 

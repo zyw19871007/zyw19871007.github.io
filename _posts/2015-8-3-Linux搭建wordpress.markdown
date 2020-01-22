@@ -1,8 +1,8 @@
 ---
 layout:  post
 title:   Linux搭建wordpress
-date:   2015-08-03 15:45:05author:  "唐传林"
-header-img: "img/post-bg-2015.jpg"
+date:   2015-08-03 15:45:05
+author:  "张耀文"
 catalog:   false
 tags:
 

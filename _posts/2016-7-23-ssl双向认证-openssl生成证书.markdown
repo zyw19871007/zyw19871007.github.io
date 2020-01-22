@@ -1,8 +1,8 @@
 ---
 layout:  post
 title:   ssl双向认证-openssl生成证书
-date:   2016-07-23 13:46:30author:  "唐传林"
-header-img: "img/post-bg-2015.jpg"
+date:   2016-07-23 13:46:30
+author:  "张耀文"
 catalog:   false
 tags:
 

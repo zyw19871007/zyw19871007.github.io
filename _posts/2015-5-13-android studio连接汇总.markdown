@@ -1,8 +1,8 @@
 ---
 layout:  post
 title:   android studio连接汇总
-date:   2015-05-13 16:57:05author:  "唐传林"
-header-img: "img/post-bg-2015.jpg"
+date:   2015-05-13 16:57:05
+author:  "张耀文"
 catalog:   false
 tags:
 

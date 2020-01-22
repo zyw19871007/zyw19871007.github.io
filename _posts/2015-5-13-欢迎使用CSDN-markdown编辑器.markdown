@@ -1,8 +1,8 @@
 ---
 layout:  post
 title:   欢迎使用CSDN-markdown编辑器
-date:   2015-05-13 15:49:31author:  "唐传林"
-header-img: "img/post-bg-2015.jpg"
+date:   2015-05-13 15:49:31
+author:  "张耀文"
 catalog:   false
 
 ---

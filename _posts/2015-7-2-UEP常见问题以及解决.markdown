@@ -1,8 +1,8 @@
 ---
 layout:  post
 title:   UEP常见问题以及解决
-date:   2015-07-02 17:34:05author:  "唐传林"
-header-img: "img/post-bg-2015.jpg"
+date:   2015-07-02 17:34:05
+author:  "张耀文"
 catalog:   false
 tags:
 

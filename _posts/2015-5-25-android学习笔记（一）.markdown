@@ -1,8 +1,8 @@
 ---
 layout:  post
 title:   android学习笔记（一）
-date:   2015-05-25 15:56:49author:  "唐传林"
-header-img: "img/post-bg-2015.jpg"
+date:   2015-05-25 15:56:49
+author:  "张耀文"
 catalog:   false
 tags:
 

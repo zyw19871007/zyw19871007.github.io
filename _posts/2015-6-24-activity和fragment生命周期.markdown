@@ -1,8 +1,8 @@
 ---
 layout:  post
 title:   activity和fragment生命周期
-date:   2015-06-24 11:21:26author:  "唐传林"
-header-img: "img/post-bg-2015.jpg"
+date:   2015-06-24 11:21:26
+author:  "张耀文"
 catalog:   false
 tags:
 

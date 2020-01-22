@@ -1,8 +1,8 @@
 ---
 layout:  post
 title:   idea使用maven构建java和scala项目开发spark
-date:   2017-02-23 17:51:43author:  "唐传林"
-header-img: "img/post-bg-2015.jpg"
+date:   2017-02-23 17:51:43
+author:  "张耀文"
 catalog:   false
 tags:
 

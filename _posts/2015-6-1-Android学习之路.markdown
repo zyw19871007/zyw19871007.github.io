@@ -1,8 +1,8 @@
 ---
 layout:  post
 title:   Android学习之路
-date:   2015-06-01 11:46:51author:  "唐传林"
-header-img: "img/post-bg-2015.jpg"
+date:   2015-06-01 11:46:51
+author:  "张耀文"
 catalog:   false
 tags:
 
