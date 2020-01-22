@@ -1,0 +1,22 @@
+---
+layout:  post
+title:   一 智能闹钟：预备
+date:   2015-05-28 16:06:57author:  "唐传林"
+header-img: "img/post-bg-2015.jpg"
+catalog:   false
+tags:
+
+---
+一、写在前面的话  
+14年4月的一个课堂作业：智能闹钟app。实现将通知类短信自动设置成闹钟。  
+例如：收到这样一条短信：“明天下午2点，在501开会”。该app将设置一个明天下午2点的闹钟（或者提前几分钟）。省去了在备忘录里记录的烦恼。  
+巧合的是：5月份某锤手机发布会上，展示了类似功能，只不过是自动添加到日历里。  
+当时，用eclipse+adt，c语言思维瞎写出来的（在小米应用商店搜：智能闹铃，就是它 ![这里写图片描述](http://img-blog.csdn.net/20150528160048466) ）对不起下载过他的同志们啊！  
+现在打算用android studio，面向对象，或许试试自然语言处理的方法，瞬间高大上了。  
+二、自然语言处理中时间短语处理  
+相关几个链接  
+1语料库以及分词标记： [ http://www.cncorpus.org/Resources.aspx](http://www.cncorpus.org/Resources.aspx)  
+2时间短语： [ http://www.doc88.com/p-1436195985843.html](http://www.doc88.com/p-1436195985843.html)  
+[ http://www.doc88.com/p-959296799068.html](http://www.doc88.com/p-959296799068.html)  
+3时间短语表达式以及归一化： [ http://www.doc88.com/p-1806843616350.html](http://www.doc88.com/p-1806843616350.html)
+

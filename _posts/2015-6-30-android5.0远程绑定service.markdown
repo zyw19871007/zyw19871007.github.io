@@ -1,0 +1,20 @@
+---
+layout:  post
+title:   android5.0远程绑定service
+date:   2015-06-30 13:19:11author:  "唐传林"
+header-img: "img/post-bg-2015.jpg"
+catalog:   false
+tags:
+
+---
+5.0之前参见： [ http://blog.csdn.net/guolin_blog/article/details/11952435](http://blog.csdn.net/guolin_blog/article/details/11952435)  
+5.0会报错：Service Intent must be explicit 官方不允许隐式调用  
+解决方法：添加setPackage方法指定要调用的service包名。（action名字也要引用调用服务的完整类名）
+
+    
+    
+    Intent intent = new Intent("com.shadow.zyw.sdu.services.MyService");
+    intent.setPackage("com.shadow.zyw.sdu.services");
+    //或者使用intent.setComponent()
+    bindService(intent, connection, BIND_AUTO_CREATE);
+

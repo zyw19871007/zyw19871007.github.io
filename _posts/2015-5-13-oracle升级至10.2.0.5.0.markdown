@@ -1,0 +1,31 @@
+---
+layout:  post
+title:   oracle升级至10.2.0.5.0
+date:   2015-05-13 16:20:06author:  "唐传林"
+header-img: "img/post-bg-2015.jpg"
+catalog:   false
+tags:
+
+---
+##  **oracle升级至10.2.0.5.0**
+
+一、why  
+一张表数据量很大时（如：七百万条），group by语句有明显bug（10.2.0.1.0实际发生过，group
+by结合sum出的小部分结果和单独sum的结果不一致）。  
+网上分析：group
+by默认采用hash算法，会产生碰撞。在10.2.0.5.0版本修复（网上说法，在0.3.0同样数据量没发现错误，为了安全起见升到5）。  
+二、solution  
+1、alter session set “_gby_hash_aggregation_enabled”=false 禁用hash；或者select /
+_\+ opt_param(‘_gby_hash_aggregation_enabled’,’false’)_ /  
+2、升级至版本5。  
+三、update（百度搜索安装包名下载）  
+安装环境：win7 64位  
+1、64位数据库安装：10204_vista_w2k8_x64_production_db.zip（选择vista版本为了在win7下安装）  
+2、64位升级包：p8202632_10205_MSWIN-x86-64.zip
+（这个1g多，不知道问什么不能直接安装，安装时要求选择已安转oracle的目录）  
+3、若要使用plsql访问64位数据库，需要安装32位客户端：instantclient-basic-win32-10.2.0.5.zip
+（plsql没有64位版本）  
+plsql中首选项-连接：oracle主目录和oci库分别选择 3中32位客户端的目录和其下的oci.dll文件。  
+4、拷贝tnsnames.ora到32位客户端的目录下。  
+5、环境变量：Path和TNS_ADMIN添加32位客户端的目录
+

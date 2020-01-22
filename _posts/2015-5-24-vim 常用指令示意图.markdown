@@ -1,0 +1,12 @@
+---
+layout:  post
+title:   vim 常用指令示意图
+date:   2015-05-24 12:45:51author:  "唐传林"
+header-img: "img/post-bg-2015.jpg"
+catalog:   false
+tags:
+
+---
+![vim 常用指令示意图](http://img-blog.csdn.net/20150524124638550)  
+vim 常用指令示意图
+

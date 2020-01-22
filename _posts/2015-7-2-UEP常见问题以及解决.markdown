@@ -1,0 +1,16 @@
+---
+layout:  post
+title:   UEP常见问题以及解决
+date:   2015-07-02 17:34:05author:  "唐传林"
+header-img: "img/post-bg-2015.jpg"
+catalog:   false
+tags:
+
+---
+1 启动服务器报： version xx 不符  
+检查jdk版本，compiler中jdk版本  
+2 中文乱码  
+项目编码，服务器编码，数据库编码是否一致  
+3 菜单失效  
+数据库中菜单表中 该为null的地方为空，需设为null
+

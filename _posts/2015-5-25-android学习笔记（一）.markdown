@@ -1,0 +1,47 @@
+---
+layout:  post
+title:   android学习笔记（一）
+date:   2015-05-25 15:56:49author:  "唐传林"
+header-img: "img/post-bg-2015.jpg"
+catalog:   false
+tags:
+
+---
+**2015年6月3日 17:12:45**
+
+  1. AlertDialog和ProgressDialog：setCancelable（false）不能使用返回键取消该对话框。 
+  2. ProgressDialog在使用show方法后，再调用setProgress()有效。 
+
+**2015年6月2日 16:32:29**
+
+  1. 删除module：（1）右键open module settings（2）project视图下：右键delete（3）重启as（android studio） 
+
+**2015年5月27日 08:40:04**
+
+  1. 修改module名字：a打开settings.gradle 修改相应的名字，关闭studio。b找到module所在文件夹，修改文件夹名，重新打开studio，ok。（简单的使用studio的rename修改名字并不可行）参考： [ http://stackoverflow.com/questions/27120974/android-studio-renaming-module ](http://stackoverflow.com/questions/27120974/android-studio-renaming-module) 和 [ http://stackoverflow.com/questions/26936812/renaming-modules-in-android-studio ](http://stackoverflow.com/questions/26936812/renaming-modules-in-android-studio)
+  2. 修改module名字后，相关文件显示红色，表明不在git管理里，需添加git-add 
+
+**2015年5月26日 14:28:56**
+
+  1. 修改默认xml布局。 新建BlankActivity的xml布局模板新建moudle使用此模板： \Android Studio\plugins\android\lib\templates\activities\BlankActivity\root\res\layout\activity_simple.xml.ftl   
+（有的说是android-sdk\tools\templates\activities\BlankActivity\root\res\layout\activity_simple.xml.ftl  
+，然而新建BlankActivity的xml不采用此模板）
+
+  2. ANR(Application Not Responding)，在ui线程执行长（默认20s）时间操作，会出现anr。 
+
+**2015年5月25日 15:52:54**
+
+  1. android4.2后引入 mipmap取代drawable。资源引用：@mipmap，目前没有代码提示 
+
+  2. 资源名不能有小数点（.），因此引入9path图片时，如@mipmap/user,对应user.9.png，会显示红色报错提示找不到user，但能正常启动且显示图片。   
+java中使用r.mipmap 提示列表中有 user和user_9,使用user_9编译会报错。
+
+环境：  
+os：win7 64  
+ide：android studio1.2.0 jdk1.7.0_79  
+ide-plugins: ideavim  
+sdk: android5.1  
+学习教程以及编码练习：疯狂android  
+练习编码存放github： [ http://github.com/zyw19871007/crazy_android_code](http://github.com/zyw19871007/crazy_android_code)  
+git-push推送到github
+

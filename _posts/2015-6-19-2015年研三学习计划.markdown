@@ -1,0 +1,16 @@
+---
+layout:  post
+title:   2015年研三学习计划
+date:   2015-06-19 11:24:33author:  "唐传林"
+header-img: "img/post-bg-2015.jpg"
+catalog:   false
+tags:
+
+---
+1《第一行代码》 android学习之路： [ http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/ ](http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/)  
+2《java编程思想》 《effective java》  
+3《重构 改善既有代码的设计》  
+4 算法：leetcode [ http://blog.csdn.net/column/details/leetcode-tanglu.html](http://blog.csdn.net/column/details/leetcode-tanglu.html)  
+5 Material Design [ http://design.1sters.com/ ](http://design.1sters.com/)  
+6 github android项目： [ http://www.zhihu.com/question/28481864](http://www.zhihu.com/question/28481864)
+
