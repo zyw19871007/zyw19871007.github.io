@@ -5,7 +5,8 @@ date:   2015-08-03 15:45:05
 author:  "张耀文"
 catalog:   false
 tags:
-
+    - blog
+    - wordpress
 ---
 Linux搭建wordpress
 

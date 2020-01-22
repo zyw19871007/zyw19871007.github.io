@@ -5,6 +5,7 @@ date:   2015-05-24 12:45:51
 author:  "张耀文"
 catalog:   false
 tags:
+    - vim
 
 ---
 ![vim 常用指令示意图](http://img-blog.csdn.net/20150524124638550)  

@@ -5,6 +5,7 @@ date:   2015-05-28 16:06:57
 author:  "张耀文"
 catalog:   false
 tags:
+    - android
 
 ---
 一、写在前面的话  

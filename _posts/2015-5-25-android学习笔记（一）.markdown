@@ -5,6 +5,7 @@ date:   2015-05-25 15:56:49
 author:  "张耀文"
 catalog:   false
 tags:
+    - android
 
 ---
 **2015年6月3日 17:12:45**

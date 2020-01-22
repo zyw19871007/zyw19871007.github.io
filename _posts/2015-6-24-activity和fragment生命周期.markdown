@@ -5,6 +5,7 @@ date:   2015-06-24 11:21:26
 author:  "张耀文"
 catalog:   false
 tags:
+    - android
 
 ---
 1、activity  

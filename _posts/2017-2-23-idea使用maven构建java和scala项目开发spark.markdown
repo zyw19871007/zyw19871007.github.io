@@ -5,7 +5,9 @@ date:   2017-02-23 17:51:43
 author:  "张耀文"
 catalog:   false
 tags:
-
+    - java
+    - ide
+    - scala
 ---
 一 工具版本  
 1 Intellij Idea 15.0.2  

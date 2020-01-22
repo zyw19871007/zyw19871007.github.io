@@ -5,7 +5,7 @@ date:   2016-10-10 10:55:16
 author:  "张耀文"
 catalog:   false
 tags:
-
+    - wordpress
 ---
 一 前言  
 1 网站更换ip后,wordpress不能正常访问  

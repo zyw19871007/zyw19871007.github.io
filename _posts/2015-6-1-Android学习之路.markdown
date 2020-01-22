@@ -5,6 +5,7 @@ date:   2015-06-01 11:46:51
 author:  "张耀文"
 catalog:   false
 tags:
+    - android
 
 ---
 转载自 [ http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)

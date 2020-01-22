@@ -5,7 +5,8 @@ date:   2016-06-14 13:38:45
 author:  "张耀文"
 catalog:   false
 tags:
-
+    - java
+    - jdk
 ---
 参考博文：  
 [ http://www.myhack58.com/Article/48/66/2015/69362.htm](http://www.myhack58.com/Article/48/66/2015/69362.htm)  

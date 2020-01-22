@@ -5,6 +5,8 @@ date:   2015-05-13 16:20:06
 author:  "张耀文"
 catalog:   false
 tags:
+    - oracle
+    - 数据库
 
 ---
 ##  **oracle升级至10.2.0.5.0**
