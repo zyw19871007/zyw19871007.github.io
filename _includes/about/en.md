@@ -9,6 +9,7 @@ hi, my name is Zhang Yaowen, and I graduated from Shandong University (Master of
  1. Understanding nodejs, npm, webpack
  1. Deeper use of zrender, simple use of d3.js, openlayer, echarts
  1. Experienced vue, angularjs
+ 
  ##### Back-end skills
  1. Familiar with java8, spring-boot
  1. Familiar with oracle, mysql
